@@ -1,4 +1,5 @@
-# Auth Api
+# auth-express-server
+Basic user authentication express server
 
 ### start project
 
